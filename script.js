@@ -1,41 +1,41 @@
 async function carregarLista(nomeArquivo) {
-    const resposta = await fetch(nomeArquivo);
-    const texto = await resposta.text();
-    // Divide por linha e remove linhas vazias
-    return texto.split('\n').map(item => item.trim()).filter(item => item !== "");
+    try {
+        const resposta = await fetch(nomeArquivo);
+        if (!resposta.ok) throw new Error("Arquivo não encontrado");
+        const texto = await resposta.text();
+        return texto.split('\n').map(item => item.trim()).filter(item => item !== "");
+    } catch (e) {
+        console.error("Erro ao carregar:", nomeArquivo);
+        return ["Erro no arquivo"];
+    }
 }
 
 async function gerarTudo() {
-    const display = document.getElementById('resultado');
-    display.innerText = "Carregando...";
+    // Referências aos arquivos SEM acento
+    const listas = [
+        { arquivo: 'Especie.txt', id: 'res-especie' },
+        { arquivo: 'Objeto.txt', id: 'res-objeto' },
+        { arquivo: 'Profissao.txt', id: 'res-profissao' },
+        { arquivo: 'Roupa.txt', id: 'res-roupa' },
+        { arquivo: 'Persona.txt', id: 'res-persona' }
+    ];
 
-    try {
-        // Carrega as 5 listas simultaneamente
-        const [especies, objetos, personas, profissoes, roupas] = await Promise.all([
-            carregarLista('Especie.txt'),
-            carregarLista('Objeto.txt'),
-            carregarLista('Persona.txt'),
-            carregarLista('Profissao.txt'),
-            carregarLista('Roupa.txt')
-        ]);
-
-        // Sorteia um item de cada (Índice aleatório: Math.random)
-        const item1 = especies[Math.floor(Math.random() * especies.length)];
-        const item2 = objetos[Math.floor(Math.random() * objetos.length)];
-        const item3 = personas[Math.floor(Math.random() * personas.length)];
-        const item4 = profissoes[Math.floor(Math.random() * profissoes.length)];
-        const item5 = roupas[Math.floor(Math.random() * roupas.length)];
-
-        // Exibe o resultado na tela
-        display.innerHTML = `
-            <strong>Especie:</strong> ${item1} <br>
-            <strong>Objeto:</strong> ${item2} <br>
-            <strong>Persona:</strong> ${item3} <br>
-            <strong>Profissao:</strong> ${item4} <br>
-            <strong>Roupa:</strong> ${item5}
-        `;
-    } catch (erro) {
-        display.innerText = "Erro ao carregar arquivos. Verifique os nomes.";
-        console.error(erro);
+    for (const item of listas) {
+        const dados = await carregarLista(item.arquivo);
+        const sorteado = dados[Math.floor(Math.random() * dados.length)];
+        document.getElementById(item.id).innerText = sorteado || "Vazio";
     }
+}
+
+function copiar(idElemento) {
+    const texto = document.getElementById(idElemento).innerText;
+    if (texto === "---" || texto === "Erro no arquivo") return;
+
+    navigator.clipboard.writeText(texto).then(() => {
+        // Feedback visual simples
+        const btn = event.target;
+        const originalText = btn.innerText;
+        btn.innerText = "OK!";
+        setTimeout(() => btn.innerText = originalText, 1000);
+    });
 }
