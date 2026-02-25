@@ -1,0 +1,599 @@
+Espada Excalibur
+
+Smartphone
+
+Astrolábio
+
+Sabre de Luz
+
+Canivete Suíço
+
+O Um Anel
+
+Máquina de Datilografia
+
+Escudo de Vibranium
+
+Lâmpada de Óleo
+
+Relógio de Bolso
+
+Katana
+
+Mochila a Jato
+
+Bússola
+
+Varinha Mágica
+
+Sextante
+
+Martelo Mjölnir
+
+Moeda de Ouro
+
+Graal
+
+Pergaminho de Papiro
+
+Óculos de Realidade Virtual
+
+Arco Curto
+
+Besta Pesada
+
+Mosquete
+
+Granada de Fragmentação
+
+Telefone de Disco
+
+Cubo Mágico
+
+Disco de Vinil
+
+Estátua de Marfim
+
+Cálice de Cristal
+
+Chave Mestra
+
+Lanterna a Querosene
+
+Mapa do Tesouro
+
+Algemas de Aço
+
+Caneta Tinteiro
+
+Máquina do Tempo
+
+Hoverboard
+
+Escudo de Carvalho
+
+Adaga de Ritual
+
+Foice de Prata
+
+Cajado de Cristal
+
+Ampulheta
+
+Luneta
+
+Bateria de Lítio
+
+Drone
+
+Estetoscópio
+
+Microchip
+
+Satélite
+
+Painel Solar
+
+Espelho de Bronze
+
+Pente de Osso
+
+Colar de Pérolas
+
+Baú de Carvalho
+
+Chaleira de Ferro
+
+Piano de Cauda
+
+Violoncelo
+
+Telescópio Hubble
+
+Microscópio Eletrônico
+
+Calculadora Mecânica
+
+Radar
+
+Sonar
+
+Prancha de Surfe
+
+Esquis de Neve
+
+Paraquedas
+
+Balão de Ar Quente
+
+Dirigível (Zeppelin)
+
+Submarino Nuclear
+
+Tanque de Guerra
+
+Canhão de Bronze
+
+Catapulta
+
+Besta Repetidora
+
+Shuriken
+
+Nunchaku
+
+Cimitarra
+
+Rapieira
+
+Alabarda
+
+Maça Estrela
+
+Mangual
+
+Lança de Torneio
+
+Tridente
+
+Funda
+
+Bumerangue
+
+Zarabatana
+
+Rifle de Precisão
+
+Metralhadora
+
+Pistola Laser
+
+Canhão de Plasma
+
+Gerador de Campo de Força
+
+Tradutor Universal
+
+Teletransportador
+
+Reator de Fusão
+
+Implante Neural
+
+Prótese Cibernética
+
+Nanorrobô
+
+Cápsula de Criogenia
+
+Traje Espacial
+
+Rover de Marte
+
+Sonda Voyager
+
+Estação Espacial
+
+Elevador Espacial
+
+Esfera de Dyson
+
+Bússola de Jack Sparrow
+
+Nanotraje (Crysis)
+
+Fonógrafo de Edison
+
+Kunai
+
+O Necronomicon
+
+Lança de Longinus
+
+Pedra Filosofal
+
+Máquina de Anticitera
+
+Sabre de Luz de lâmina dupla
+
+Martelo de Guerra
+
+Escudo de Energia
+
+Pipas de Guerra (Japão Antigo)
+
+Pistola de Portais (Portal)
+
+Death Note
+
+Relógio de Sol de Bolso
+
+Adaga de Vidro Dragão
+
+Manopla do Infinito
+
+Flauta de Pã
+
+Harpa de Lira
+
+Cálice de Fogo
+
+Esferas do Dragão
+
+Cajado de Âmbar
+
+Mochila de Prótons (Ghostbusters)
+
+Batarangue
+
+Chicote de Couro
+
+Zarabatana de Bambu
+
+Garra de Urso (Arma)
+
+Martelo de Juiz
+
+Cetro Real
+
+Diário de bordo em couro
+
+Medalha de Honra
+
+Máscara Mortuária
+
+Bustos de Mármore
+
+Pote de Alquimia
+
+Reator Arc
+
+Sabre de Pirata
+
+Besta de Pulso
+
+Arco Longo Inglês
+
+Tocha de Magnésio
+
+Lanterna de Papel
+
+Seringa de Adrenalina
+
+Tablet Holográfico
+
+Filtro de Água Portátil
+
+Barraca de Acampamento Mágica
+
+Corda de Cânhamo Encantada
+
+Espelho de Obsidiana
+
+Fivela de Prata
+
+Sino de Igreja
+
+Bigorna de Bronze
+
+Fole de Ferreiro
+
+Algibeira de Moedas
+
+Estojo de Primeiros Socorros
+
+Binóculo de Visão Noturna
+
+Sinalizador de Fumaça
+
+Bóia Salva-vidas
+
+Âncora de Ferro
+
+Leme de Navio
+
+Máquina de Escrever Continental
+
+Câmera Polaroid
+
+Walkman
+
+Game Boy
+
+Cartucho de Super Nintendo
+
+Fita VHS
+
+Disquete de 3,5 polegadas
+
+Modem Dial-up
+
+Antena Parabólica
+
+Gerador de Biodiesel
+
+Painel de Controle de Foguete
+
+Traje de Ectoplasma
+
+Canhão de Gauss
+
+Mina Terrestre
+
+Arame Farpado
+
+Escudo Antimotim
+
+Tonfa
+
+Sai (Adaga)
+
+Naginata
+
+Kusarigama
+
+Maça de Armas (Mace)
+
+Picareta de Mineração
+
+Martelo Pneumático
+
+Furadeira de Impacto
+
+Motosserra
+
+Soprador de Folhas
+
+Extintor de Incêndio
+
+Detector de Metais
+
+Geodo de Ametista
+
+Fóssil de Trilobita
+
+Crânio de Cristal
+
+Totem de Madeira
+
+Incensário de Prata
+
+Rosário de Madeira
+
+Tabuleiro de Ouija
+
+Tarot de Marselha
+
+Bola de Cristal
+
+Runas de Pedra
+
+Pergaminho de Teleporte
+
+Poção de Cura
+
+Elixir da Longa Vida
+
+Veneno de Escorpião
+
+Soro da Verdade
+
+Bússola de Ouro (A Bússola de Ouro)
+
+Neuralizador (M.I.B)
+
+Estrela da Morte (miniatura de controle)
+
+Chakram (Xena)
+
+Kusarigama (foice com corrente)
+
+Atlatl (propulsor de lanças pré-histórico)
+
+Macuahuitl (espada asteca de obsidiana)
+
+Pilha de Bagdá
+
+Antena de rádio amador
+
+Sextante de bronze oxidado
+
+Pata de Macaco (objeto amaldiçoado)
+
+Relicário de Santo
+
+Incunábulo (livro impresso antes de 1501)
+
+Câmera de fole
+
+Gramofone de manivela
+
+Máscara de peste bubônica
+
+Tabuleiro de Senet (Egito Antigo)
+
+Disco de Festos
+
+Cilindro de Ciro
+
+Microscópio de Leeuwenhoek
+
+Bobina de Tesla
+
+Máquina de Diferenças de Babbage
+
+Cubo de Rubik 4x4
+
+Peteca de penas naturais
+
+Ioiô de madeira
+
+Pião de metal
+
+Monopólio (edição vintage)
+
+Cartão perfurado de computador
+
+Microfilme
+
+Telefone de parede de madeira
+
+Pager (Bip)
+
+Tamagotchi
+
+Laser Disc
+
+MiniDisc
+
+Zip Drive
+
+Máquina de fumaça
+
+Estroboscópio
+
+Prisma de Newton
+
+Pendente de Quartzo Rosa
+
+Geodo de Citrino
+
+Lança-chamas
+
+Boleadeira
+
+Estilingue de couro
+
+Zarabatana de vidro
+
+Besta de repetição Chu-ko-nu
+
+Pistola de pederneira
+
+Bacamarte
+
+Canhão de mão (Handgonne)
+
+Estrepes (Caltrops)
+
+Granja de formigas
+
+Aquário de água salgada
+
+Terrário suculento
+
+Bonsai centenário
+
+Prensa de vinhos
+
+Tear jacquard
+
+Roda de fiar
+
+Forja portátil
+
+Torno mecânico manual
+
+Nível de bolha de carpinteiro
+
+Prumo de pedreiro
+
+Esquadro de latão
+
+Compasso de pontas secas
+
+Transferidor de engenheiro
+
+Regra de cálculo
+
+Ábaco soroban
+
+Calculadora Curta
+
+Enigma (máquina de criptografia)
+
+Radar de pulso Doppler
+
+Contador Geiger
+
+Espectrômetro de massa
+
+Câmara de nuvens
+
+Colisor de partículas (miniatura)
+
+Reator nuclear de sal fundido
+
+Turbina de Tesla
+
+Motor Stirling
+
+Painel de grafeno
+
+Fibra óptica
+
+Cabo transatlântico (pedaço)
+
+Antena parabólica de malha
+
+Roteador quântico
+
+Chave de fenda sônica (Doctor Who)
+
+Hovercraft
+
+Jet Ski
+
+Snowmobile
+
+Segway
+
+Monociclo elétrico
+
+Patinete de ferro antigo
+
+Triciclo de carga
+
+Carruagem vitoriana
+
+Liteira de seda
+
+Trenó de huskies
+
+Canoa de casca de bétula
+
+Jangada de bambu
+
+Galé (maquete)
+
+Caravela (maquete)
+
+Bote inflável
+
+Colete salva-vidas de cortiça
+
+Sinalizador de magnésio
+
+Bóia de sinalização
+
+Farol (lente de Fresnel)

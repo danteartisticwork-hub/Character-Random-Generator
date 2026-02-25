@@ -1,0 +1,599 @@
+Ferreiro
+
+Alquimista
+
+Programador
+
+Médico Cyber
+
+Guerreiro
+
+Mago
+
+Arqueiro
+
+Ladino
+
+Paladino
+
+Clérigo
+
+Bardo
+
+Druida
+
+Monge
+
+Caçador de Recompensas
+
+Astronauta
+
+Engenheiro de Software
+
+Analista de Dados
+
+Designer Gráfico
+
+Arquiteto
+
+Advogado
+
+Juiz
+
+Policial
+
+Bombeiro
+
+Enfermeiro
+
+Farmacêutico
+
+Professor
+
+Cientista
+
+Biólogo Marinho
+
+Astrônomo
+
+Físico Nuclear
+
+Químico
+
+Geólogo
+
+Arqueólogo
+
+Historiador
+
+Filósofo
+
+Escritor
+
+Jornalista
+
+Fotógrafo
+
+Cineasta
+
+Ator
+
+Músico
+
+Escultor
+
+Pintor
+
+Cozinheiro (Chef)
+
+Padeiro
+
+Confeiteiro
+
+Sommelier
+
+Barman
+
+Garçom
+
+Piloto de Avião
+
+Capitão de Navio
+
+Maquinista de Trem
+
+Motorista
+
+Mecânico
+
+Eletricista
+
+Encanador
+
+Carpinteiro
+
+Pedreiro
+
+Jardineiro
+
+Agricultor
+
+Pescador
+
+Mineiro
+
+Tecelão (Obsoleta/Artesanal)
+
+Fiandeira (Obsoleta)
+
+Alfaiate
+
+Sapateiro
+
+Ourives
+
+Relojoeiro
+
+Bibliotecário
+
+Arquivista
+
+Museólogo
+
+Curador de Arte
+
+Psicólogo
+
+Psiquiatra
+
+Veterinário
+
+Zootecnista
+
+Agrônomo
+
+Engenheiro Civil
+
+Engenheiro Mecânico
+
+Engenheiro Elétrico
+
+Engenheiro Aeroespacial
+
+Piloto de Drone
+
+Especialista em IA
+
+Hacker Ético
+
+Criptógrafo
+
+Analista de Cibersegurança
+
+Desenvolvedor de Jogos
+
+Streamer
+
+Influenciador Digital
+
+Gestor de Tráfego
+
+Corretor de Imóveis
+
+Banqueiro
+
+Economista
+
+Contador
+
+Administrador
+
+Secretária
+
+Recepcionista
+
+Atendente de Telemarketing
+
+Entregador
+
+Lixeiro (Gari)
+
+Astrólogo da Corte
+
+Provador Real (Envenenamento)
+
+Bobo da Corte
+
+Arauto
+
+Escudeiro
+
+Cavalariço
+
+Falcoeiro
+
+Caçador de Ratos (Vitoriano)
+
+Acendedor de Lampião
+
+Ressurreicionista (Ladrão de Corpos para Ciência)
+
+Leitor de Fábrica (Lia para operários)
+
+Despertador Humano (Knocker-up)
+
+Operador de Telégrafo
+
+Datilógrafo de Tribunal
+
+Arquivista Digital
+
+Curador de Memórias Virtuais
+
+Arqueólogo Galáctico
+
+Engenheiro de Teletransporte
+
+Psicólogo de Robôs
+
+Ético de Inteligência Artificial
+
+Designer de Órgãos Sintéticos
+
+Minerador de Asteroides
+
+Guia Turístico em Marte
+
+Zelador de Estação Orbital
+
+Biohacker
+
+Engenheiro de Clima (Geoengenharia)
+
+Especialista em Desextinção (Trás animais extintos de volta)
+
+Advogado de Direitos Não-Humanos
+
+Detetive de Criptomoedas
+
+Piloto de Mecha
+
+Técnico de Criogenia
+
+Farmacêutico de Nanobots
+
+Cultivador de Carne em Laboratório
+
+Urbanista de Cidades Flutuantes
+
+Bibliotecário de DNA
+
+Operador de Drone de Entrega
+
+Analista de Sentimento de Massa
+
+Gerente de Comunidade de Metaverso
+
+Artista de Realidade Aumentada
+
+Tradutor de Línguas Mortas
+
+Paleontólogo de Campo
+
+Vulcanólogo
+
+Oceanógrafo Abissal
+
+Meteorologista Espacial
+
+Astrofísico Teórico
+
+Engenheiro de Som (Foley)
+
+Dublê de Ação
+
+Coreógrafo
+
+Ilusionista
+
+Ventríloquo
+
+Domador de Leões (Circo)
+
+Trapezista
+
+Palhaço Hospitalar
+
+Terapeuta Ocupacional
+
+Fonoaudiólogo
+
+Quiropraxista
+
+Acupunturista
+
+Homeopata
+
+Fitoterapeuta
+
+Paramédico de Combate
+
+Maqueiro
+
+Instrumentador Cirúrgico
+
+Radiologista
+
+Perito Criminal (Balística)
+
+Antropólogo Forense
+
+Toxicologista
+
+Corretor de Seguros de Vida
+
+Atuário
+
+Auditor Fiscal
+
+Despachante Aduaneiro
+
+Capitão de Fragata
+
+Contra-mestre
+
+Taifeiro
+
+Mergulhador de Plataforma
+
+Soldador Subaquático
+
+Lenhador de Árvores Gigantes
+
+Guardião de Farol
+
+Vigilante Florestal
+
+Engenheiro de Minas
+
+Espeleólogo
+
+Topógrafo
+
+Cartógrafo Digital
+
+Urbanista
+
+Paisagista
+
+Florista
+
+Apicultor
+
+Viticultor (Vinhos)
+
+Sommelier de Chás
+
+Mestre Cervejeiro
+
+Destilador
+
+Barista
+
+Esteticista
+
+Visagista
+
+Tatuador de Reconstrução
+
+Body Piercer
+
+Personal Shopper
+
+Coach de Oratória
+
+Ghostwriter
+
+Editor de Manuscritos
+
+Crítico de Gastronomia
+
+Agrimensor
+
+Alfaiate de cena
+
+Amanuense (copista)
+
+Analista de sistemas legados
+
+Antropólogo cultural
+
+Apicultor urbano
+
+Armador de navios
+
+Artífice de vidro soprado
+
+Ascensorista
+
+Atuarista
+
+Auxiliar de necropsia
+
+Avicultor
+
+Baleeiro (histórica)
+
+Balconista de penhores
+
+Bibliófilo (consultor)
+
+Bioinformata
+
+Caligrafista de convites
+
+Cambista
+
+Cantor de ópera
+
+Captador de recursos (fundraising)
+
+Cartazista
+
+Cenógrafo
+
+Chaveiro residencial
+
+Climatologista
+
+Comentarista de e-sports
+
+Comissário de bordo
+
+Comprador internacional
+
+Conservador de alimentos
+
+Consultor de imagem
+
+Controlador de tráfego aéreo
+
+Copidesque
+
+Corretor de valores
+
+Costureira de alta costura
+
+Criptoanalista
+
+Crítico de arte
+
+Curador de dados
+
+Dançarino de sapateado
+
+Datilógrafo de braile
+
+Decorador de interiores
+
+Degustador de azeite
+
+Dentista forense
+
+Desenhista industrial
+
+Designer de som para jogos
+
+Diagramador
+
+Digitador
+
+Diretor de fotografia
+
+Doceiro artesanal
+
+Ecólogo de paisagem
+
+Editor de vídeo
+
+Educador físico
+
+Embalsamador
+
+Engenheiro de som ao vivo
+
+Enólogo
+
+Entalhador em madeira
+
+Ergonomista
+
+Escrivão de polícia
+
+Especialista em UX (User Experience)
+
+Estampador de tecidos
+
+Estatístico
+
+Estivador
+
+Etnógrafo
+
+Executivo de contas
+
+Figurinista
+
+Fiscal de linha (tênis)
+
+Fisiologista do exercício
+
+Foleiro (assistente de ferreiro)
+
+Forneiro de padaria
+
+Funileiro
+
+Geógrafo
+
+Gesseiro
+
+Governanta de hotel
+
+Gravurista
+
+Guia de montanha
+
+Hidrólogo
+
+Ilustrador científico
+
+Imunologista
+
+Inspetor de qualidade
+
+Instalador de redes
+
+Intérprete de libras
+
+Investigador de sinistros
+
+Joalheiro
+
+Lactarista
+
+Lapidador de gemas
+
+Lavadeiro artesanal
+
+Maquiador de efeitos especiais
+
+Marceneiro de móveis finos
+
+Marinheiro de convés
+
+Massoterapeuta
+
+Mestre d'obras
+
+Modelista
+
+Montador de estruturas metálicas
+
+Museógrafo
+
+Musicoterapeuta
+
+Nutricionista esportivo
+
+Oleiro
+
+Operador de guindaste
+
+Ornitólogo
+
+Ourives de prata
+
+Paleógrafo
+
+Paveiro (construtor de calçadas)

@@ -1,0 +1,599 @@
+O Herói Relutante
+
+O Mentor Sábio
+
+O Vilão Cruel
+
+O Anti-herói
+
+O Alívio Cômico
+
+O Escolhido
+
+O Traidor
+
+O Eremita
+
+O Rei Justo
+
+O Nobre Decadente
+
+O Cavaleiro Errante
+
+O Mercenário Sem Escrúpulos
+
+O Órfão Determinado
+
+O Cientista Louco
+
+O Inventor Genial
+
+O Artista Atormentado
+
+O Detetive Melancólico
+
+O Espião Sedutor
+
+O Ladrao Cavalheiro
+
+O Assassino Frio
+
+O Caçador de Monstros
+
+O Sobrevivente do Apocalipse
+
+O Ciborgue Sem Emoção
+
+O Robô Que Quer Ser Humano
+
+O Alienígena Curioso
+
+O Viajante do Tempo Confuso
+
+O Fantasma Vingativo
+
+O Vampiro Aristocrata
+
+O Lobisomem Amaldiçoado
+
+O Mago Arrogante
+
+O Aprendiz de Feiticeiro
+
+O Guerreiro Veterano
+
+O Recruta Ingênuo
+
+O Pirata Temido
+
+O Capitão Leal
+
+O Rebelde Sem Causa
+
+O Anarquista Idealista
+
+O Político Corrupto
+
+O Magnata da Tecnologia
+
+O Hacker Solitário
+
+O Fanático Religioso
+
+O Profeta Verdadeiro
+
+O Falso Messias
+
+O Curandeiro da Vila
+
+O Xamã Tribal
+
+O Gladiador Escravo
+
+O Camponês Revoltado
+
+O Comerciante Ganancioso
+
+O Bibliotecário Misterioso
+
+O Colecionador de Artefatos
+
+O Explorador Intrépido
+
+O Turista Desavisado
+
+O Atleta de Elite
+
+O Jogador de Azar
+
+O Trapaceiro de Rua
+
+O Mestre das Disfarces
+
+O Justiceiro Mascarado
+
+O Vigilante Noturno
+
+O Xerife Durão
+
+O Fora da Lei Romântico
+
+O Samurai Sem Mestre (Ronin)
+
+O Ninja Silencioso
+
+O Monge Pacifista
+
+O Bárbaro Impulsivo
+
+O Paladino Inflexível
+
+O Bardo Galanteador
+
+O Druida Protetor da Natureza
+
+O Necromante Obcecado
+
+O Inquisidor Implacável
+
+O Diplomata Astuto
+
+O Mordomo Fiel
+
+A Governanta Austera
+
+O Órfão de Rua (Pivete)
+
+O Mendigo Profeta
+
+O Louco da Aldeia
+
+O Gênio Incompreendido
+
+O Ativista Ambiental
+
+O Astronauta Perdido
+
+O Inteligência Artificial Autoconsciente
+
+O Clone em Busca de Identidade
+
+O Caçador de Recompensas Espacial
+
+O Contrabandista Galáctico
+
+O Lorde Sith (Lado Sombrio)
+
+O Mestre Jedi (Lado Luminoso)
+
+O Super-herói com Identidade Secreta
+
+O Sidekick Fiel
+
+O Rival Amigável
+
+O Inimigo Mortal
+
+O Amor Proibido
+
+O Viúvo Amargurado
+
+A Matriarca Poderosa
+
+O Patriarca Conservador
+
+O Filho Pródigo
+
+O Exilado Político
+
+O Prisioneiro de Guerra
+
+O Desertor Covarde
+
+O Herói de Guerra Condecorado
+
+O Filantropo Excêntrico
+
+O Psicopata Carismático
+
+O Observador Onisciente
+
+O Radical de Extrema-Direita/Esquerda
+
+O Conspiracionista de Chapéu de Alumínio
+
+O Sobrevivencialista do "Prepper"
+
+O Magnata do Petróleo Exilado
+
+O Hacker de "Black Hat" (Malicioso)
+
+O Ativista do "Anonymous"
+
+O Guru de Meditação Picareta
+
+O Monge Trapista (Voto de Silêncio)
+
+O Guerreiro de Final de Semana
+
+O Colecionador de Selos Obsessivo
+
+O Turista Espacial Rico e Assustado
+
+O Ciborgue de Manutenção de Esgoto
+
+O Clonado que descobriu ser o nº 2
+
+O Androide com Crise de Identidade
+
+O Viajante Dimensional Perdido
+
+O Mestre de RPG Sádico
+
+O Cosplayer que nunca sai do personagem
+
+O Escritor de Terror que mora em um cemitério
+
+O Poeta Maldito
+
+O Músico de Rua Genial e Pobre
+
+O Fotógrafo de Guerra com PTSD
+
+O Correspondente Internacional em área de risco
+
+O Político Idealista que se corrompe
+
+O Lobbyista de Indústria Tabagista
+
+O Delegado de Polícia de Fronteira
+
+O Patrulheiro da Muralha
+
+O Cavaleiro de Dragão Aposentado
+
+O Ferreiro Místico que só forja sob a lua cheia
+
+A Bruxa da Floresta que cura com fungos
+
+O Inquisidor que duvida da própria fé
+
+O Exorcista Moderno (Usa tecnologia)
+
+O Medium que odeia falar com mortos
+
+O Fantasma que não sabe que morreu
+
+O Zumbi com consciência residual
+
+O Vampiro Vegano (Bebe sangue sintético)
+
+O Lobisomem que se tranca em um bunker
+
+O Alienígena disfarçado de zelador
+
+O Agente do MIB (Men in Black)
+
+O Caçador de OVNIs
+
+O Criptozoólogo em busca do Pé-Grande
+
+O Sobrevivente de Sequestro Alienígena
+
+O Herdeiro de uma Fortuna Amaldiçoada
+
+O Órfão Criado por Lobos
+
+O Tarzan Urbano (Parkour extremo)
+
+O Atleta Olímpico banido por doping
+
+O Jogador de Xadrez com IA no cérebro
+
+O Mestre de Poker "Read" (Lê microexpressões)
+
+O Vigarista de Casamentos
+
+O Falsificador de Obras de Arte
+
+O Ladrão de Joias Minimalista
+
+O Hacker Ético que trabalha para o governo
+
+O Analista da CIA que nunca sai da mesa
+
+O Agente Adormecido (Sleeper Agent)
+
+O Terrorista Cibernético
+
+O Mercenário com Código de Honra
+
+O Samurai Moderno (Usa espada na cidade)
+
+O Cowboy de Asfalto (Caminhoneiro)
+
+O Capitão de Submarino Obcecado
+
+O Piloto de Testes Sem Medo da Morte
+
+O Paraquedista de Base Jump
+
+O Surfista de Ondas Gigantes
+
+O Alpinista Solitário
+
+O Eremita Tecnológico (Vive no mato com Starlink)
+
+O Minimalista Extremo (Possui apenas 15 itens)
+
+O Acumulador Compulsivo de Lixo Místico
+
+O Curador de Museu que fala com as estátuas
+
+O Restaurador de Livros Antigos
+
+O Taxidermista de Criaturas Fantásticas
+
+O Cozinheiro de Venenos
+
+O Provador de Comida Real (Paranoico)
+
+O Bobo da Corte Depressivo
+
+O Rei Louco que fala com as paredes
+
+A Rainha de Copas (Autoritária e Cruel)
+
+O Príncipe Mimado
+
+A Princesa Guerreira
+
+O Escravo que virou General
+
+O Gladiador que nunca perdeu
+
+O Bárbaro que lê Filosofia
+
+O Monge Shaolin no Exílio
+
+O Ninja Urbano (Entregador de entregas perigosas)
+
+O Detetive Particular de Casos Sobrenaturais
+
+O Perito de Seguros Cético
+
+O Auditor Interno que sabe demais
+
+O Denunciante (Whistleblower) em fuga
+
+O Refugiado de Guerra
+
+O Imigrante Ilegal em busca de sonho
+
+O Magnata da Mídia Manipulador
+
+O Âncora de Jornal Narcisista
+
+O Paparazzo Sem Limites
+
+O Astro do Rock Decadente
+
+A Diva da Ópera Reclusa
+
+O Coreógrafo Ditador
+
+O Diretor de Cinema Visionário e Louco
+
+O Gamer de E-sports com Reflexos Sobre-humanos
+
+O Streamer que faz lives 24h por dia
+
+O Influenciador de Estilo de Vida Falso
+
+O Coach de Relacionamento Solteirão
+
+O Psicólogo de Casais em Divórcio
+
+O Coveiro que conta histórias
+
+O Viajante Solitário do Multiverso
+
+O Agricultor de subsistência resiliente
+
+O Almirante caído em desgraça
+
+O Amigo imaginário que se tornou real
+
+O Analista de riscos paranoico
+
+O Ancião da tribo esquecida
+
+O Apresentador de circo decadente
+
+O Arqueólogo de lixo (Garbologist)
+
+O Arrependido que busca redenção
+
+O Artista de rua mudo
+
+O Astrônomo que descobriu algo terrível
+
+O Atleta de xadrez boxe
+
+O Autômato com alma humana
+
+O Aventureiro de poltrona
+
+O Barão de terras áridas
+
+O Bispo inquisidor de coração mole
+
+O Boneco de ventríloquo amaldiçoado
+
+O Caçador de baleias filosófico
+
+O Capitão de balsa de rio perigoso
+
+O Carcereiro que lê para os presos
+
+O Cartógrafo de terras inexistentes
+
+O Cavaleiro de ordem religiosa extinta
+
+O Cego que vê através de ecolocalização
+
+O Cientista exilado em uma ilha
+
+O Colecionador de suspiros (fantasioso)
+
+O Comediante que nunca ri
+
+O Condenado à morte inocente
+
+O Conselheiro espiritual de celebridades
+
+O Contrabandista de livros proibidos
+
+O Corretor de imóveis em cidades fantasmas
+
+O Coveiro de cemitério de animais
+
+O Cozinheiro de navio pirata
+
+O Crítico de arte cego
+
+O Curador de feridas invisíveis
+
+O Dançarino de balé com próteses
+
+O Desertor de exército robótico
+
+O Desenhista de retratos falados
+
+O Detetive de crimes de colarinho branco
+
+O Diplomata intergaláctico gago
+
+O Domador de feras místicas
+
+O Doador de sangue profissional
+
+O Dublê que sobreviveu ao impossível
+
+O Educador de IAs rebeldes
+
+O Engenheiro de sonhos (fantasioso)
+
+O Eremita que vive em um farol
+
+O Escrivão de tribunal corrupto
+
+O Especialista em desastres naturais
+
+O Espião que se apaixonou pelo alvo
+
+O Esquecido por todos (maldição)
+
+O Estilista de armaduras reais
+
+O Ex-astro de TV mirim
+
+O Explorador de cavernas claustrofóbico
+
+O Falsificador de documentos de identidade
+
+O Fanático por jogos de tabuleiro antigos
+
+O Filósofo niilista otimista
+
+O Fotógrafo de fantasmas cético
+
+O General que nunca venceu uma batalha
+
+O Geógrafo de sonhos
+
+O Gladiador aposentado que virou padeiro
+
+O Guia turístico em zonas de radiação
+
+O Hacker de marcapassos
+
+O Herdeiro de um império de papel higiênico
+
+O Historiador de futuros alternativos
+
+O Homem mais velho do mundo (cansado)
+
+O Ilusionista que perdeu os dedos
+
+O Imortal que quer morrer
+
+O Impostor que acredita na própria mentira
+
+O Jardineiro de plantas carnívoras
+
+O Jogador de videogame profissional aposentado
+
+O Jornalista Investigativo disfarçado
+
+O Juiz de lutas ilegais
+
+O Ladino que rouba apenas de outros ladrões
+
+O Leiloeiro de itens de cena de filmes
+
+O Libertador de animais de laboratório
+
+O Linguista que fala com máquinas
+
+O Lobista de causas perdidas
+
+O Lutador de sumô magro
+
+O Mágico de festas infantis triste
+
+O Marinheiro que tem medo de água
+
+O Matemático que encontrou Deus nos números
+
+O Médico de pobres em favelas futuristas
+
+O Mestre de cerimônias de cultos estranhos
+
+O Minerador de dados ético
+
+O Monge budista ex-executivo de Wall Street
+
+O Motorista de fuga com princípios
+
+O Músico que toca instrumentos de gelo
+
+O Mutante com um poder inútil
+
+O Narrador de audiobooks com voz hipnótica
+
+O Nômade digital em um mundo pós-internet
+
+O Observador de pássaros obsessivo
+
+O Oráculo que só fala através de enigmas de rádio
+
+O Ourives de ossos
+
+O Padeiro que coloca mensagens nos pães
+
+O Pescador de pérolas negro
+
+O Piloto de dirigível cargueiro
+
+O Poeta de grafite em ruínas
+
+O Policial de trânsito em cidade voadora
+
+O Pregador de rua carismático
+
+O Primeiro humano nascido em Marte
+
+O Psicólogo de super-vilões
+
+O Zelador do fim do mundo

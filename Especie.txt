@@ -1,0 +1,599 @@
+Leão
+
+Dragão
+
+Unicórnio
+
+Elfo
+
+Anão
+
+Orc
+
+Goblin
+
+Centauro
+
+Minotauro
+
+Sereia
+
+Grifo
+
+Hipogrifo
+
+Fênix
+
+Hidra
+
+Quimera
+
+Mantícora
+
+Basilisco
+
+Wyvern
+
+Troll
+
+Ogro
+
+Gigante
+
+Ciclope
+
+Medusa (Gorgona)
+
+Harpia
+
+Esfinge
+
+Pégaso
+
+Cérbero
+
+Kraken
+
+Leviatã
+
+Behemoth
+
+Vampiro
+
+Lobisomem
+
+Zumbi
+
+Fantasma
+
+Esqueleto (Animado)
+
+Múmia
+
+Lich
+
+Banshee
+
+Pixie
+
+Sprite
+
+Dryad (Dríade)
+
+Náiade
+
+Sátiro
+
+Fauno
+
+Ent (Árvore Viva)
+
+Golem de Pedra
+
+Homúnculo
+
+Doppelgänger
+
+Mímico
+
+Beholder (Observador)
+
+Mind Flayer (Devorador de Mentes)
+
+Tarrasque
+
+Tiefling
+
+Dragonborn
+
+Tabaxi (Povo Gato)
+
+Kenku (Povo Corvo)
+
+Lizardfolk (Povo Lagarto)
+
+Gnoll
+
+Kobold
+
+Hobgoblin
+
+Bugbear
+
+Rakshasa
+
+Djinn (Gênio)
+
+Efreeti
+
+Elemental de Fogo
+
+Elemental de Água
+
+Elemental de Ar
+
+Elemental de Terra
+
+Fada
+
+Leprechaun
+
+Kappa
+
+Kitsune
+
+Tengu
+
+Oni
+
+Yeti
+
+Sasquatch (Pé Grande)
+
+Chupacabra
+
+Mothman
+
+Alienígena (Grey)
+
+Xenomorfo
+
+Predador (Yautja)
+
+Wookiee
+
+Klingon
+
+Vulcano
+
+Dalek
+
+Cyberman
+
+Ornitorrinco
+
+Axolote
+
+Tardígrado
+
+Tubarão-Branco
+
+Baleia Azul
+
+Elefante Africano
+
+Tigre de Bengala
+
+Gorila das Montanhas
+
+Panda Gigante
+
+Condor dos Andes
+
+Dragão de Komodo
+
+Sucuri
+
+Águia Real
+
+Beija-flor
+
+Hipocampo
+
+Seráfico (Anjo)
+
+Querubim
+
+Nephilim
+
+Wendigo
+
+Kelpie
+
+Selkie
+
+Povo das Sombras
+
+Espectro
+
+Poltergeist
+
+Gárgula
+
+Wyrm (Dragão Ancestral)
+
+Dracolich
+
+Hidra de Lerna
+
+Mantícora Venenosa
+
+Pégaso Negro
+
+Unicórnio Negro (Pesadelo)
+
+Sleipnir
+
+Fenrir (Lobo Gigante)
+
+Jörmungandr (Serpente do Mundo)
+
+Nidhogg
+
+Esquilo Ratatoskr
+
+Valquíria
+
+Einherjar
+
+Jotun (Gigante de Gelo)
+
+Gigante de Fogo
+
+Svartálfar (Elfos Negros)
+
+Duergar
+
+Meio-Orc
+
+Meio-Elfo
+
+Gnomo das Rochas
+
+Halfling (Pequenino)
+
+Kender
+
+Warforged (Forjado para Guerra)
+
+Changeling
+
+Shifter
+
+Aasimar
+
+Genasi
+
+Githyanki
+
+Githzerai
+
+Slaad
+
+Modron
+
+Flumph
+
+Owlbear (Urso-Coruja)
+
+Displacer Beast (Besta Deslocadora)
+
+Rust Monster (Monstro da Ferrugem)
+
+Gelatinous Cube (Cubo Gelatinoso)
+
+Myconid (Homem-Cogumelo)
+
+Bullywug (Povo Sapo)
+
+Yuan-ti (Povo Serpente)
+
+Naga
+
+Lamia
+
+Aranha Gigante
+
+Escorpião Imperial
+
+Verme de Gelo
+
+Remorhaz
+
+Roc (Ave Gigante)
+
+Thunderbird (Pássaro Trovão)
+
+Bunyip
+
+Yowie
+
+Mapinguari
+
+Curupira
+
+Boitatá
+
+Caipora
+
+Iara
+
+Boto Cor-de-rosa
+
+Mula sem Cabeça
+
+Negrinho do Pastoreio
+
+Cuca
+
+Lobisomem de Guará
+
+Chupacabra de Varginha
+
+Gremlin
+
+Mogwai
+
+Ewok
+
+Jawa
+
+Hutt
+
+Twi'lek
+
+Rodiano
+
+Na'vi (Avatar)
+
+Predalien
+
+Transformer
+
+Replicante
+
+Borg
+
+Klingon
+
+Romulano
+
+Ferengi
+
+Wampa
+
+Tauntaun
+
+Bantha
+
+Sarlacc
+
+Okapi
+
+Diabo da Tasmânia
+
+Equidna
+
+Casuar
+
+Dragão-Marinho-Folhado
+
+Peixe-Gota
+
+Lula Colossal
+
+Caranguejo-Aranha Japonês
+
+Urso Polar
+
+Leopardo das Neves
+
+Almiraj (coelho com chifre)
+
+Ammit (devoradora de corações)
+
+Anhangá
+
+Bakunawa (dragão marinho)
+
+Blemia (seres sem cabeça)
+
+Catoblepas
+
+Cuca (versão jacaré)
+
+Dullahan (cavaleiro sem cabeça)
+
+Erymanthian Boar (javali mitológico)
+
+Gashadokuro (esqueleto gigante japonês)
+
+Hodag
+
+Ifrit
+
+Jackalope
+
+Kamaitachi (doninha do vento)
+
+Kirin (Qilin)
+
+Lamassu
+
+Makhai (espíritos da batalha)
+
+Nue (quimera japonesa)
+
+Peryton
+
+Qareen
+
+Raiju
+
+Simurgh
+
+Tanuki
+
+Thunderbird
+
+Umibozu
+
+Valkíria
+
+Wolpertinger
+
+Yale (centicore)
+
+Zilant
+
+Aaracokra (povo pássaro)
+
+Beholderkin (espectador menor)
+
+Chuul
+
+Drider
+
+Ettercap
+
+Firbolg
+
+Galeb Duhr
+
+Hook Horror
+
+Intellect Devourer
+
+Justicators
+
+Kuotoa
+
+Marid (gênio da água)
+
+Night Hag
+
+Oni (ogro mago)
+
+Purple Worm
+
+Quaggoth
+
+Roper
+
+Shambling Mound
+
+Thri-kreen (povo louva-a-deus)
+
+Umber Hulk
+
+Vrock
+
+Water Weird
+
+Xorn
+
+Yugoloth
+
+Zorbbo
+
+Alpaca
+
+Anta
+
+Ariranha
+
+Aye-aye
+
+Babuíno
+
+Bisão
+
+Camelo Bactriano
+
+Capivara
+
+Caracal
+
+Cervo-do-pantanal
+
+Coala
+
+Diabo-espinhoso
+
+Dugongo
+
+Esquilo-voador
+
+Feneco (raposa do deserto)
+
+Fragata (pássaro)
+
+Gnu
+
+Hamster-siríaco
+
+Iaque
+
+Jiboia
+
+Kakapo (papagaio que não voa)
+
+Lemure
+
+Lince-ibérico
+
+Marmota
+
+Narval
+
+Ouriço-cacheiro
+
+Pangolim
+
+Quati
+
+Rinoceronte-de-java
+
+Salamandra-gigante-da-china
+
+Saiga (antílope)
+
+Tarsio
+
+Urso-formigueiro (Tamanduá)
+
+Veado-campeiro
+
+Wombat
+
+Zebra-de-grevy
+
+Escorpião-chicote
+
+Louva-a-deus-orquídea
+
+Borboleta-monarca
+
+Vespa-caçadora
+
+Aranha-pavão
+
+Polvo-mímico
+
+Camarão-mantis
+
+Dragão-azul (nudibrânquio)
+
+Caravelas-portuguesas
+
+Medusa-imortal

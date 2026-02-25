@@ -1,0 +1,599 @@
+Túnica de Lã
+
+Cota de Malha
+
+Armadura de Placas
+
+Elmo de Combate
+
+Manoplas de Aço
+
+Grevas de Bronze
+
+Escudo de Torre
+
+Capa de Veludo
+
+Capuz de Couro
+
+Botas de Montaria
+
+Sandálias de Couro
+
+Toga Romana
+
+Quimono de Seda
+
+Sarongue
+
+Kilt Escocês
+
+Calça Jeans
+
+Camiseta de Algodão
+
+Camisa Social
+
+Terno Completo
+
+Vestido de Noiva
+
+Saia Rodada
+
+Blusa de Seda
+
+Jaqueta de Couro
+
+Sobretudo (Overcoat)
+
+Impermeável (Trench Coat)
+
+Suéter de Lã
+
+Cardigã
+
+Colete de Couro
+
+Espartilho (Corset)
+
+Meia-Calça
+
+Luvas de Pelica
+
+Cachecol de Tricô
+
+Gravata de Seda
+
+Lenço de Bolso
+
+Cinto de Couro
+
+Suspensórios
+
+Chapéu Coco
+
+Cartola
+
+Boina
+
+Boné
+
+Sombreiro
+
+Turbante
+
+Hijab
+
+Quipá
+
+Coroa de Ouro
+
+Tiara de Diamantes
+
+Colar de Esmeraldas
+
+Brincos de Argola
+
+Pulseira de Prata
+
+Anel de Sinete
+
+Broche de Bronze
+
+Medalhão Místico
+
+Amuleto de Proteção
+
+Relógio de Pulso
+
+Óculos de Sol
+
+Máscara de Baile
+
+Máscara de Gás
+
+Capacete Espacial
+
+Traje de Mergulho
+
+Armadura de Couro Batido
+
+Peitoral de Aço
+
+Ombreiras (Spaulders)
+
+Braçadeiras
+
+Perneiras
+
+Gorjal (Proteção de Pescoço)
+
+Viseira de Elmo
+
+Escamas de Dragão (Armadura)
+
+Gibão de Couro
+
+Tabardo
+
+Cinto de Utilidades
+
+Coldre de Pistola
+
+Bainha de Espada
+
+Aljava de Flechas
+
+Botas de Sete Léguas (Fictícia)
+
+Manto de Invisibilidade (Fictícia)
+
+Sapatos de Cristal (Fictícia)
+
+Pantufas
+
+Tênis de Corrida
+
+Chuteiras
+
+Sapatilhas de Balé
+
+Botas de Neve
+
+Galochas
+
+Chinelos de Dedo
+
+Alpargatas
+
+Mocassins
+
+Botas de Combate (Coturno)
+
+Uniforme Militar
+
+Jaleco Branco
+
+Avental de Cozinha
+
+Macacão de Trabalho
+
+Traje de Banho (Biquíni/Sunga)
+
+Roupão de Banho
+
+Pijama de Seda
+
+Camisola
+
+Ceroulas
+
+Corselete
+
+Bracelete de Couro
+
+Tornozeleira
+
+Piercing de Nariz
+
+Tatuagem (Como adorno corporal)
+
+Kimono de Batalha (Samurai)
+
+Yukata de Verão
+
+Hanfu Chinês
+
+Sari Bordado
+
+Poncho de Lã Alpaca
+
+Sombrero de Charro
+
+Ushanka (Chapéu de pele Russo)
+
+Turbante Sikh
+
+Fez (Chapéu Marroquino)
+
+Boina de Paraquedista
+
+Capacete Stalhelm
+
+Máscara de Gás M50
+
+Colete à Prova de Balas Kevlar
+
+Escudo Balístico Portátil
+
+Manopla com Lâmina Oculta
+
+Armadura de Samambaia (Celta)
+
+Peitoral de Couro de Crocodilo
+
+Elmo com Chifres de Touro
+
+Máscara de Samurai (Menpo)
+
+Sapatos de Plataforma (Disco)
+
+Botas Dr. Martens
+
+Salto Agulha
+
+Sapatilha de Ponta
+
+MOC de Proteção Química
+
+Traje de Mergulho de Bronze (Antigo)
+
+Wetsuit de Neoprene
+
+Nadadeiras de Mergulho
+
+Óculos de Proteção (Goggles) Steampunk
+
+Monóculo de Ouro
+
+Relógio de Sol de Pulso
+
+Anel de Veneno (Com compartimento)
+
+Pulseira de Identificação Médica
+
+Colar de Dentes de Tubarão
+
+Brinco de Pena de Fênix
+
+Piercing Septo de Osso
+
+Coroa de Louros
+
+Diadema de Prata
+
+Véu de Noiva de Renda
+
+Mantilha Espanhola
+
+Luvas de Boxe
+
+Faixa de Judô (Preta)
+
+Quimono de Jiu-Jitsu
+
+Maiô de Competição
+
+Touca de Natação
+
+Calção de Muay Thai
+
+Protetor Bucal
+
+Caneleiras de Futebol
+
+Capacete de Futebol Americano
+
+Ombreiras de Hóquei
+
+Patins de Gelo
+
+Meias de Compressão
+
+Cinta Liga
+
+Espartilho de Aço
+
+Crinolina (Armação de saia)
+
+Anágua de Babados
+
+Casaco de Peles (Sintético)
+
+Parka de Expedição Ártica
+
+Poncho de Chuva Transparente
+
+Guarda-chuva de Cabo de Madeira
+
+Bengala com Espada Escondida
+
+Leque de Guerra (Tessen)
+
+Bolsa de Mão Clucth
+
+Mochila de Hidratação (Camelbak)
+
+Bornal de Lona
+
+Pochete de Couro
+
+Cinto de Castidade (Histórico)
+
+Piercing de Microdermal
+
+Grills (Joia para dentes)
+
+Lentes de Contato Esclerais (Terror)
+
+Peruca de Época (Luís XV)
+
+Extensão de Cabelo (Mega Hair)
+
+Chapéu de Palha Panamá
+
+Fedora de Feltro
+
+Quepe de Marinheiro
+
+Gorro de Lã (Beanie)
+
+Balaclava de Lã
+
+Máscara de Esqui
+
+Protetor de Ouvido (Abafador)
+
+Bandagem de Mão
+
+Tapa-olho de Pirata
+
+Gancho de Mão
+
+Perna de Pau
+
+Robô de Vestir (Exoesqueleto)
+
+Capa de Chuva de Borracha
+
+Avental de Chumbo (Raio-X)
+
+Luvas de Borracha Isolante
+
+Cinto de Segurança de Alpinismo
+
+Mosquetão de Escalada
+
+Magnésio para Mãos
+
+Sapatilha de Escalada
+
+Meias de Lã Térmica
+
+Boxer Shorts
+
+Samba-canção
+
+Top Esportivo
+
+Legging de Lycra
+
+Kimono de Judô (Gi)
+
+Máscara de Esgrima
+
+Colete de Esgrima
+
+Florete (Arma/Acessório)
+
+Sandálias Havaianas
+
+Abotoaduras de ônix
+
+Agulheta de cadarço
+
+Alpercatas de sisal
+
+Amuleto de olho grego
+
+Anel de polegar de arqueiro
+
+Armadura de papel laqueado (China)
+
+Avental de couro de ferreiro
+
+Babador de renda
+
+Badana (lenço)
+
+Baioneta de desfile
+
+Balandrau (capa de ordens)
+
+Bandagem de boxeador
+
+Barrete frígio
+
+Batinha de bebê
+
+Berloque de pulseira
+
+Biquíni de crochê
+
+Blusão bomber
+
+Bolero de cetim
+
+Boina basca
+
+Bota de cano curto (Ankle boot)
+
+Bracelete de cobre magnético
+
+Brinco de pressão
+
+Burca de seda
+
+Caftan marroquino
+
+Calça bailarina
+
+Calça cargo
+
+Calça de montaria (Breeches)
+
+Calça pantalona
+
+Camisa polo
+
+Camisola de flanela
+
+Capa de chuva amarela (Fisherman)
+
+Capacete de cortiça (Pith helmet)
+
+Capacete de mineração com lanterna
+
+Carapuça de lã
+
+Cardigã de cashmere
+
+Casaco de trincheira (Trench coat)
+
+Chapéu de abas largas (Floppy hat)
+
+Chapéu de palha de arroz
+
+Chapéu pork pie
+
+Choker de veludo
+
+Cinto de segurança de paraquedismo
+
+Clavi (tiras de túnica romana)
+
+Coifa de linho
+
+Colar de dentes de javali
+
+Colete salva-vidas camuflado
+
+Coroa de espinhos (artefacto)
+
+Corselete de couro cravejado
+
+Cueca slip
+
+Culote militar
+
+Diadema de louro de ouro
+
+Dreadlocks sintéticos (acessório)
+
+Elmo de gladiador murmillone
+
+Escarcela (bolsa de cintura)
+
+Estola de pele sintética
+
+Faixa de cintura (Cummerbund)
+
+Farda de gala de hussardo
+
+Fralda de pano vintage
+
+Franja de canutilho
+
+Gambeson (jaqueta acolchoada)
+
+Gargantilha de strass
+
+Gorro de aviador
+
+Gravata borboleta de madeira
+
+Gravata de crochê
+
+Grevas de couro fervido
+
+Guantes de falcoaria
+
+Guarda-pó de lona
+
+Hachimaki (faixa japonesa)
+
+Haori (casaco japonês)
+
+Jaqueta jeans com patches
+
+Jardineira jeans
+
+Jilbab
+
+Jodhpurs (calças de pólo)
+
+Jubão (Doublet)
+
+Justacorps
+
+Legwarmers (polainas de ginástica)
+
+Lentes de contato coloridas
+
+Luvas sem dedos de couro
+
+Macacão de voo
+
+Manguito de ciclista
+
+Manopla de esgrima histórica
+
+Manto de arminho
+
+Máscara de esgrima moderna
+
+Meia arrastão
+
+Meia de cano alto (7/8)
+
+Meia sapatilha
+
+Mitene (luva sem dedos)
+
+Monóculo de leitura
+
+Pelerine
+
+Perneiras de lona
+
+Peitilho de camisa
+
+Piercing no freio labial
+
+Plastron (gravata de noivo)
+
+Polainas de feltro
+
+Protetor de ombro de rugby
+
+Pulseira de berloques
+
+Quepe de policial
+
+Saco de dormir vestível
+
+Sandália gladiadora
+
+Sapatilha de tecido
+
+Suspensório de elástico
