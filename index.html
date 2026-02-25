@@ -2,17 +2,198 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerador de Personagens</title>
     <style>
-        body { font-family: sans-serif; text-align: center; padding-top: 50px; background: #f4f4f4; }
-        #resultado { font-size: 1.5rem; margin: 20px; min-height: 100px; color: #333; }
-        button { padding: 15px 30px; font-size: 1.2rem; cursor: pointer; background: #2ecc71; border: none; color: white; border-radius: 5px; }
+        :root {
+            --bg-color: #e9ecef;
+            --card-bg: #1a2a44;
+            --accent-color: #dfb26d;
+            --text-white: #ffffff;
+            --input-bg: #f0f0f0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            margin: 0;
+        }
+
+        .container-cards {
+            width: 100%;
+            max-width: 500px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            padding: 15px 20px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            border-left: 5px solid var(--accent-color);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+
+        .label-group { display: flex; align-items: center; gap: 10px; }
+
+        .label-text {
+            color: var(--text-white);
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .info-icon {
+            background: var(--accent-color);
+            color: var(--card-bg);
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: help;
+            position: relative;
+        }
+
+        .info-icon:hover::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            left: 30px;
+            top: 0;
+            background: #333;
+            color: #fff;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            width: 200px;
+            z-index: 10;
+        }
+
+        .row { display: flex; gap: 10px; align-items: center; }
+
+        .result-box {
+            background: var(--input-bg);
+            padding: 10px;
+            border-radius: 4px;
+            flex-grow: 1;
+            font-weight: 500;
+            color: #333;
+            min-height: 20px;
+        }
+
+        .copy-btn {
+            background-color: var(--accent-color);
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            color: var(--card-bg);
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .card-persona { margin-top: 30px; border-style: dashed; }
+
+        #btn-gerar {
+            margin-top: 40px;
+            padding: 15px 60px;
+            background-color: var(--accent-color);
+            border: none;
+            border-radius: 8px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
-    <h1>Meu Gerador Aleatório</h1>
-    <div id="resultado">Clique no botão para gerar...</div>
-    <button onclick="gerarTudo()">GERAR</button>
+
+    <h1>Gerador de Personagens</h1>
+
+    <div class="container-cards">
+        <div class="card">
+            <div class="card-header">
+                <div class="label-group">
+                    <span class="label-text">Espécie</span>
+                    <div class="info-icon" data-tooltip="Espécie real ou fictícia que seu personagem pode ter.">?</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="result-box" id="res-especie">---</div>
+                <button class="copy-btn" onclick="copiar('res-especie')">Copiar</button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <div class="label-group">
+                    <span class="label-text">Objeto</span>
+                    <div class="info-icon" data-tooltip="Itens e objetos que seu personagem pode ter ou usar.">?</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="result-box" id="res-objeto">---</div>
+                <button class="copy-btn" onclick="copiar('res-objeto')">Copiar</button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <div class="label-group">
+                    <span class="label-text">Profissão</span>
+                    <div class="info-icon" data-tooltip="Cargo ou dedicação do seu personagem.">?</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="result-box" id="res-profissao">---</div>
+                <button class="copy-btn" onclick="copiar('res-profissao')">Copiar</button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <div class="label-group">
+                    <span class="label-text">Roupa</span>
+                    <div class="info-icon" data-tooltip="Vestimenta ou acessórios do personagem.">?</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="result-box" id="res-roupa">---</div>
+                <button class="copy-btn" onclick="copiar('res-roupa')">Copiar</button>
+            </div>
+        </div>
+
+        <div class="card card-persona">
+            <div class="card-header">
+                <div class="label-group">
+                    <span class="label-text">Persona</span>
+                    <div class="info-icon" data-tooltip="A ideia sutil ou subconsciente que o personagem transmite.">?</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="result-box" id="res-persona">---</div>
+                <button class="copy-btn" onclick="copiar('res-persona')">Copiar</button>
+            </div>
+        </div>
+    </div>
+
+    <button id="btn-gerar" onclick="gerarTudo()">GERAR</button>
 
     <script src="script.js"></script>
 </body>
