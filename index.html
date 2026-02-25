@@ -12,6 +12,7 @@
             --text-white: #ffffff;
             --input-bg: #f0f0f0;
             --text-muted: #555;
+            --pinterest-red: #e60023;
         }
 
         body {
@@ -24,10 +25,7 @@
             margin: 0;
         }
 
-        h1 { 
-            color: #333; 
-            margin-bottom: 10px; 
-        }
+        h1 { color: #333; margin-bottom: 10px; }
 
         .subtitulo {
             max-width: 600px;
@@ -41,7 +39,7 @@
 
         .container-cards {
             width: 100%;
-            max-width: 500px;
+            max-width: 550px;
             display: flex;
             flex-direction: column;
             gap: 15px;
@@ -73,7 +71,6 @@
             font-size: 1.1rem;
         }
 
-        /* Tooltip Style */
         .info-icon {
             background: var(--accent-color);
             color: var(--card-bg);
@@ -102,12 +99,11 @@
             width: 220px;
             z-index: 10;
             font-weight: normal;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
         }
 
         .row {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             align-items: center;
         }
 
@@ -119,24 +115,25 @@
             font-weight: 500;
             color: #333;
             min-height: 22px;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
 
-        .copy-btn {
-            background-color: var(--accent-color);
+        .copy-btn, .pin-btn {
             border: none;
-            padding: 10px 15px;
+            padding: 10px 12px;
             border-radius: 4px;
-            color: var(--card-bg);
             font-weight: bold;
             cursor: pointer;
-            transition: transform 0.1s;
+            font-size: 0.85rem;
+            transition: transform 0.1s, filter 0.2s;
+            white-space: nowrap;
         }
 
-        .copy-btn:active { transform: scale(0.95); }
+        .copy-btn { background-color: var(--accent-color); color: var(--card-bg); }
+        .pin-btn { background-color: var(--pinterest-red); color: white; }
 
-        /* Estilo Persona - Com margem e borda tracejada */
+        .copy-btn:active, .pin-btn:active { transform: scale(0.95); }
+        .pin-btn:hover { filter: brightness(1.2); }
+
         .card-persona { 
             margin-top: 35px; 
             border-style: dashed; 
@@ -154,11 +151,6 @@
             color: var(--card-bg);
             cursor: pointer;
             box-shadow: 0 4px 15px rgba(223, 178, 109, 0.3);
-            transition: background 0.2s;
-        }
-
-        #btn-gerar:hover {
-            filter: brightness(1.1);
         }
     </style>
 </head>
@@ -168,10 +160,10 @@
     
     <p class="subtitulo">
         Este gerador é uma iniciativa para ajudar artistas a quebrar a barreira inicial de criar um personagem do 0. 
-        Apesar de receber 5 opções, não se sinta obrigado a utilizar de todas elas ao mesmo tempo (o que resultaria em um algo no mínimo divertido).
+        Apesar de receber 5 opções, não se sinta obrigado a utilizar de todas elas ao mesmo tempo.
         <br><br>
-        Veja as opções como níveis de desafio onde escolher 1 é o nível fácil e escolher os 5 se torna o nível EXTREMO, 
-        mas para ter um resultado um pouco melhor, recomendo que escolha no mínimo 2 características para começar.
+        Veja as opções como níveis de desafio: escolher 1 é o nível fácil e 5 é o EXTREMO. 
+        Recomendo escolher no mínimo 2 características para começar.
         <br><br>
         <strong>Divirta-se!</strong>
     </p>
@@ -187,6 +179,7 @@
             <div class="row">
                 <div class="result-box" id="res-especie">---</div>
                 <button class="copy-btn" onclick="copiar('res-especie', this)">Copiar</button>
+                <button class="pin-btn" onclick="buscarPinterest('res-especie')">Pinterest</button>
             </div>
         </div>
 
@@ -194,12 +187,13 @@
             <div class="card-header">
                 <div class="label-group">
                     <span class="label-text">Objeto</span>
-                    <div class="info-icon" data-tooltip="Itens e objetos que seu personagem pode ter, usar ou interagir.">?</div>
+                    <div class="info-icon" data-tooltip="Itens e objetos que seu personagem pode ter ou usar.">?</div>
                 </div>
             </div>
             <div class="row">
                 <div class="result-box" id="res-objeto">---</div>
                 <button class="copy-btn" onclick="copiar('res-objeto', this)">Copiar</button>
+                <button class="pin-btn" onclick="buscarPinterest('res-objeto')">Pinterest</button>
             </div>
         </div>
 
@@ -207,12 +201,13 @@
             <div class="card-header">
                 <div class="label-group">
                     <span class="label-text">Profissão</span>
-                    <div class="info-icon" data-tooltip="Profissão, cargo, dedicação que seu personagem pode ter.">?</div>
+                    <div class="info-icon" data-tooltip="Profissão, cargo ou dedicação do personagem.">?</div>
                 </div>
             </div>
             <div class="row">
                 <div class="result-box" id="res-profissao">---</div>
                 <button class="copy-btn" onclick="copiar('res-profissao', this)">Copiar</button>
+                <button class="pin-btn" onclick="buscarPinterest('res-profissao')">Pinterest</button>
             </div>
         </div>
 
@@ -220,12 +215,13 @@
             <div class="card-header">
                 <div class="label-group">
                     <span class="label-text">Roupa</span>
-                    <div class="info-icon" data-tooltip="Vestimenta, roupagem, acessórios que ele pode ter ou usar.">?</div>
+                    <div class="info-icon" data-tooltip="Vestimenta ou acessórios do personagem.">?</div>
                 </div>
             </div>
             <div class="row">
                 <div class="result-box" id="res-roupa">---</div>
                 <button class="copy-btn" onclick="copiar('res-roupa', this)">Copiar</button>
+                <button class="pin-btn" onclick="buscarPinterest('res-roupa')">Pinterest</button>
             </div>
         </div>
 
@@ -233,12 +229,13 @@
             <div class="card-header">
                 <div class="label-group">
                     <span class="label-text">Persona</span>
-                    <div class="info-icon" data-tooltip="A ideia sutil ou subconsciente que seu personagem deve passar quando alguém olha para ele.">?</div>
+                    <div class="info-icon" data-tooltip="A ideia sutil ou subconsciente que o personagem transmite.">?</div>
                 </div>
             </div>
             <div class="row">
                 <div class="result-box" id="res-persona">---</div>
                 <button class="copy-btn" onclick="copiar('res-persona', this)">Copiar</button>
+                <button class="pin-btn" onclick="buscarPinterest('res-persona')">Pinterest</button>
             </div>
         </div>
     </div>
